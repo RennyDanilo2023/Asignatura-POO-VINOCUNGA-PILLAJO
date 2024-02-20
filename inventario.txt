@@ -1,0 +1,6 @@
+788,pollo,8,89.0
+7890,arroz,87,6.0
+8,pollo,8,87.0
+lenteja,lenteja,8,987.0
+7,fideos,7,8.0
+67,yogurts,76,8.0
